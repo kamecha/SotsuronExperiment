@@ -1,0 +1,7 @@
+https://zenn.dev/karno/articles/0c480df092f7a4
+https://github.com/karno/llvm-project/blob/lrlr/clang/examples/LoopRewriter/LoopRewriter.cpp
+https://eli.thegreenplace.net/2012/06/08/basic-source-to-source-transformation-with-clang
+https://swtv.kaist.ac.kr/courses/cs453-fall13/Clang%20tutorial%20v4.pdf
+https://clang.llvm.org/docs/RAVFrontendAction.html
+https://clang.llvm.org/docs/ClangPlugins.html
+

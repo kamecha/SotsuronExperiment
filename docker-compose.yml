@@ -1,0 +1,8 @@
+version: '3'
+services:
+  app:
+    image: aflplusplus/aflplusplus
+    platform: linux/x86_64
+    volumes:
+      - ./container-volume:/src
+    tty: true
